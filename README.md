@@ -2,10 +2,7 @@
 
 Kvasir-SEG veri seti üzerinde U-Net mimarisi kullanılarak kolonoskopi görüntülerinde polip segmentasyonu.
 
-**Van Yüzüncü Yıl Üniversitesi — Bilgisayar Mühendisliği — Yapay Zeka Dersi Final Projesi**
-
 ## Proje Özeti
-
 Bu projede, 1000 kolonoskopi görüntüsü ve gastroenterolog onaylı maskelerden oluşan Kvasir-SEG veri seti kullanılarak piksel düzeyinde polip segmentasyonu gerçekleştirilmiştir. U-Net mimarisi sıfırdan implement edilmiş, iteratif bir geliştirme süreciyle hiperparametre optimizasyonu yapılmıştır.
 
 ## Sonuçlar
@@ -64,8 +61,5 @@ Bu projede, 1000 kolonoskopi görüntüsü ve gastroenterolog onaylı maskelerde
 3. Kaggle API key'inizi yükleyin (`kaggle.json`)
 4. Hücreleri sırayla çalıştırın
 
-## Yazar
-
-**Kumrunaz Tunaboylu** — Van Yüzüncü Yıl Üniversitesi, Bilgisayar Mühendisliği
 
 Danışman: Doç. Dr. Murat Canayaz
